@@ -19,5 +19,5 @@
  <br>
   
 # 📊Estatísticas do GitHub:
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=luiz-badain&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luiz-badain&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luiz-badain&theme=nord_dark) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaniloMotaReis&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaniloMotaReis&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DaniloMotaReis&theme=nord_dark) |
 | :-: | :-: | :-: |
